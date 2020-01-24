@@ -9,7 +9,10 @@
 .p{
   text-align: justify;
 }
-
+.span{
+  display:flex;
+  justify-content: space-between;
+}
 .gallery {
     margin: 5px;
     border: 1px solid #ccc;
@@ -20,6 +23,6 @@
     padding: 15px;
     text-align: center;
   }
-  .h1{
-    color:red;
+  .footer{
+    opacity: 0.5;
   }
